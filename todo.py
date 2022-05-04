@@ -61,11 +61,11 @@ def show_item(item):
     if not result:
         return 'This item number does not exist!'
     else:
-        return 'Task: %s' % result[0]
+        return 'Task: %s <br><a href="/todo" class="ui left floated small primary button">Back</a>' % result[0]
 
 @route('/help')
 def help():
-    return static_file('help.html', root='.')
+    return template('help.tpl')
 
 @route('/json<json:re:[0-9]+>')
 def show_json(json):

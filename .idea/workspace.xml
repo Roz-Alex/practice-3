@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="beae0de4-7160-4856-abbd-3951589ac0fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/edit_task.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make_table.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new_task.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit_task.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/edit_task.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/make_table.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/make_table.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_task.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/new_task.tpl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.db" beforeDir="false" afterPath="$PROJECT_DIR$/todo.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,5 +109,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
